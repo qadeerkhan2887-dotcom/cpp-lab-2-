@@ -4,7 +4,8 @@ using namespace std;
 
 int main(){
 	
-cout<<"5121399";
+cout<<"06067";
 
 return 0;	
 }
+
